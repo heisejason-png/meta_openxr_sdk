@@ -65,3 +65,5 @@ See the [CONTRIBUTING](CONTRIBUTING.md) file for how to help out.
 
 ## License
 Meta OpenXR SDK is subject to the Oculus SDK License Agreement, as found in the LICENSE file.
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
